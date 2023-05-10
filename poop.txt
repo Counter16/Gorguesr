@@ -1,0 +1,33 @@
+Japan
+Tokyo 
+37,000,000
+USA
+Saint Louis
+2,800,000
+India 
+New Delhi
+30,000,000
+China
+Shanghai
+26,000,000
+Brazil
+Sao Paulo
+22,000,000
+Mexico 
+Mexico City
+21,500,000
+Egypt
+Cairo
+20,500,000
+Bangladesh
+Dhaka
+20,000,000
+India
+Mumbai
+20,000,000
+China
+Beijing
+20,000,000
+Japan
+Osaka
+19,000,000
